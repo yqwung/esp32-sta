@@ -13,7 +13,7 @@ IDF_PATH = /home/wang/share/esp32/esp-idf-v2.1
 #define WIFI_SSID           "yourwifi"
 #define WIFI_PASS           "wifipassword"
 </code></pre>
-3 make编译
+3 make编译<br />
 首次编译会出现配置菜单，可以选择默认配置，直接选择“EXIT”跳过
 
 
